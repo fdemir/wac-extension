@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Watch And Chill",
+  "description": "",
+  "version": "1.0",
+  "icons": {},
+  "action": {
+    "default_popup": "index.html"
+  }
+}
